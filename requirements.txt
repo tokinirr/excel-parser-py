@@ -1,12 +1,2 @@
-input_file: samples/sample.xlsx
-output_file: output/resultats.xlsx
-filters:
-    type_A:
-        type:
-            equals: "A"
-    valeur_sup_50:
-        valuer:
-            min: 50
-    status_OK:
-        status:
-            equals: "OK"
+pandas
+pyyaml
